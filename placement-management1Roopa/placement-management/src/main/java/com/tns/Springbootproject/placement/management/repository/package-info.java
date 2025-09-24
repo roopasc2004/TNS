@@ -1,0 +1,1 @@
+package com.tns.Springbootproject.placement.management.repository;
